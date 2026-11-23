@@ -1,7 +1,7 @@
 
 # 💀 PassiveRoast
 
-**Because not every thought deserves to be sent.**
+**"Because not every thought deserves to be sent."**
 
 PassiveRoast is a funny MCP server that detects passive-aggressive messages and translates corporate drama into human language.
 
